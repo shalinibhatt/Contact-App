@@ -1,0 +1,24 @@
+{
+  "contacts": [
+    {
+      "id": "d88c3b49-4e17-41e9-8f67-34b3236cba2b",
+      "name": "kaya san",
+      "email": "kayasan@gmail.com"
+    },
+    {
+      "id": "153cac67-9f65-4e00-94d3-e9e980e33baf",
+      "name": "Shalini Bhatt",
+      "email": "reachtoshalinibhatt@gmail.com"
+    },
+    {
+      "id": "3042172c-664b-4552-a3a3-90bccc2091e2",
+      "name": "Aman",
+      "email": "amansharma4182@gmail.com"
+    },
+    {
+      "id": "47743695-8620-44c4-8576-d498b5b83c7e",
+      "name": "gyani",
+      "email": "kgyanender4@gmail.com"
+    }
+  ]
+}
